@@ -21,7 +21,7 @@ os.environ["SERPAPI_API_KEY"] = "YOUR_SERPAPI_API_KEY"
 
 # set your Database Credentials 
 db_user = "postgres"
-db_password = "upforce123"
+db_password = "root"
 db_host = "localhost"
 db_name = "schoolDB"
 db_port = 5432
