@@ -20,7 +20,7 @@ genai.configure(api_key = os.environ['GOOGLE_API_KEY'])
 
 # set your Database credentials 
 db_user = "postgres"
-db_password = "upforce123"
+db_password = "root"
 db_host = "localhost"
 db_name = "schoolDB"
 db_port = 5432
